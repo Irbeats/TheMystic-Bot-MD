@@ -1250,7 +1250,7 @@ export async function handler(chatUpdate) {
       }, time);
     }
 
-    if (m.isBaileys) {
+    if (m.isBaileys || isBaileysFail && m?.sender === mconn?.conn?.user?.jid) {
       return;
     }
     m.exp += Math.ceil(Math.random() * 10);
@@ -1626,13 +1626,13 @@ export async function participantsUpdate({ id, participants, action }) {
   //if (m.conn.isInit) return;
   if (global.db.data == null) await loadDatabase();
   const chat = global.db.data.chats[id] || {};
-  const botTt = global.db.data.settings[m.conn.user.jid] || {};
+  const botTt = global.db.data.settings[mconn?.conn?.user?.jid] || {};
   let text = '';
   switch (action) {
     case 'add':
     case 'remove':
       if (chat.welcome && !chat?.isBanned) {
-        const groupMetadata = await m.conn.groupMetadata(id) || (conn.chats[id] || {}).metadata;
+        const groupMetadata = await m?.conn?.groupMetadata(id) || (conn?.chats[id] || {}).metadata;
         for (const user of participants) {
           let pp = 'https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/avatar_contact.png';
           try {

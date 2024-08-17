@@ -10,6 +10,9 @@ import moment from 'moment-timezone';
 global.botnumber = "212722055011"
 global.confirmCode = "212722055011"
 
+// Cambiar a true si el Bot responde a sus mismos comandos.
+global.isBaileysFail = false
+
 global.owner = [
   ['212722055011', '👑 Mbots - Creator 👑', true];
 

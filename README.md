@@ -8,22 +8,18 @@
 
 ### `▢ CUENTAS OFICIALES`
 
-> [ 🔗 ] [atom.bio](https://www.atom.bio/theshadowbrokers-team)
+> [ 🔗 ] [atom.bio/theshadowbrokers-team](https://www.atom.bio/theshadowbrokers-team)
 
-[![Click Aquí](https://img.shields.io/badge/Canal-MysticBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN)
+<a href="https://wa.me5219992843881?text=!menu"><img alt="Bot Oficial" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN)
+[![Click Aquí](https://img.shields.io/badge/Grupo-MysticBot%20PT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN)
 
-<!-- > [ ℹ️ ] En los grupos de soporte no se permiten bots.
+[![Click Aquí](https://img.shields.io/badge/Grupo-MysticBot%20ES-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LVwSmQ3e6SZCB2DDgqlOHK)
 
-### `▢ BOTS OFICIALES (INACTIVOS)`
-
-<a href="https://wa.me5219991402134?text=!menu"><img alt="Bot Oficial" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-<a href="https://wa.me/5219993404349?text=!menu"><img alt="Bot Oficial2" src="https://img.shields.io/badge/Bot - Oficial2-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
+[![Click Aquí](https://img.shields.io/badge/Canal-MysticBot%20ES-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y)
 
 ### `▢ DONAR`
-- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/TheShadowBrokers133)
+- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/BrunoSob)
 
 ### `▢ PLUGINS`
 - Tienes ideas de plugins o ¿quieres obtener mas plugins? entonces hace [clic aquí](https://github.com/theh2so4/Mystic-Plugins)
@@ -31,16 +27,6 @@
 ### `▢ AJUSTES`
 - Clona el repositorio haciendo [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
 - ¿Quieres cambiar el número del propietario? haz [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
-
-### `▢ ACTIVAR EN FLAREXCLOUD`
-<a href="https://www.flarex.cloud"><img src="https://cdn.flarex.cloud/deploy.png" height="60px"></a>
-- Pagina Web: https://www.flarex.cloud
-- Tutorial: en proceso
-- Área de Pagos: https://billing.flarex.cloud
-- Game Panel: https://gamepanel.flarex.cloud
-- Contacto: hi@flarex.cloud / support@flarex.cloud / partnerships@flarex.cloud
-- Discord: https://discord.flarex.cloud
-- WhatsApp: https://whatsapp.flarex.cloud
 
 ### `▢ ACTIVAR EN CAFIREXOS`
 <a href="https://cafirexos.com"><img src="https://cdn.cafirexos.com/logos%2Flogo_cfros_2000x2000.png" height="125px"></a>
@@ -53,6 +39,7 @@
 
 [![Click Aquí](https://img.shields.io/badge/Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50497150165)
 
+
 ### `▢ ACTIVAR EN BOXMINEHOST`
 <a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
@@ -61,19 +48,17 @@
 - Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
 - Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
 
-### `□ ACTIVAR EN INFINITY-HOST`
-[![blog](https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/c9RCnOV418E?si=kNWog_fSi8wCWX3A)
+### `□ ACTIVAR EN OLYMPUS-HOST`
+<a href="https://panel.olympus-host.xyz"><img src="https://qu.ax/waCu.jpg" height="125px"></a>
+### Información del Host
 
-<a href="https://dash.infinitywa-host.com"><img src="https://qu.ax/TPhh.jpg" height="125px"></a>
+- **Dashboard:** [`Aquí`](https://dash.olympus-host.xyz)
 
-- Página: [`Click aqui`](https://infinity-wa.com)
-- Dashboard: [`Aquí`](https://dash.infinitywa-host.com)
-- Panel: [`Aquí`](https://panel.infinitywa-host.com)
-- Grupo de WhatsApp: [`Aquí`](https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV)
-- Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
+- **Panel:** [`Aquí`](https://panel.olympus-host.xyz)
 
-- Discord: [`Aqui`](https://discord.com/invite/vgfpe4Nwd8)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029ValCkNT2ER6gHWFRQ71J)
+
+- **Correo:** [`Aquí`](olympushost2@gmail.com.com)
 
 ### `▢ ACTIVAR EN KOYEB`
 
